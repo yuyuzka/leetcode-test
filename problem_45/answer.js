@@ -3,7 +3,7 @@
  * @return {number}
  */
  var jump = function(nums) {
-     if(nums.length==1){
+     if(nums.length==1){ //nums=[0]
          return 0
      }
     let steps=[]
